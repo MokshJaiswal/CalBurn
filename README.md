@@ -1,3 +1,17 @@
+### 🔍 Project Context – *CalBurn (AI-Powered Health Assistant)*
+
+This web scraping and image dataset collection task forms a foundational component of **CalBurn**, a group project that leverages **AI and Data Science** to promote personalized health and nutrition. CalBurn is a smart application where users can upload a photo of their food plate. The system detects and classifies food items using **computer vision** and estimates nutritional content using curated datasets.
+
+From a data science perspective, this task involves:
+
+* **Web scraping** structured food item names from reliable sources (e.g., Health Canada) to build an initial taxonomy of common fruits and vegetables.
+* **Automated image data collection** using Google Images Search API to build a visual dataset for training object detection models (e.g., YOLO, Faster R-CNN).
+* Creating clean, labeled datasets to support downstream **machine learning** tasks such as image classification, segmentation, and nutrient estimation.
+
+The extracted insights will later be cross-referenced with the user's medical profile to generate **AI-driven recommendations** for exercises and personalized diet plans — enabling a data-driven, health-aware lifestyle assistant.
+
+---
+
 **BeautifulSoup** web scraping script that extracts fruits and vegetables information from the Health Canada website. This is the companion script to your image downloader.
 
 ---
