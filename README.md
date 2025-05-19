@@ -1,6 +1,6 @@
-### 🔍 Project Context – *CalBurn (AI-Powered Health Assistant)*
+### 🔍 Project Context – *CalSnap (AI-Powered Health Assistant)*
 
-This web scraping and image dataset collection task forms a foundational component of **CalBurn**, a group project that leverages **AI and Data Science** to promote personalized health and nutrition. CalBurn is a smart application where users can upload a photo of their food plate. The system detects and classifies food items using **computer vision** and estimates nutritional content using curated datasets.
+This web scraping and image dataset collection task forms a foundational component of **CalSnap**, a group project that leverages **AI and Data Science** to promote personalized health and nutrition. CalBurn is a smart application where users can upload a photo of their food plate. The system detects and classifies food items using **computer vision** and estimates nutritional content using curated datasets.
 
 From a data science perspective, this task involves:
 
